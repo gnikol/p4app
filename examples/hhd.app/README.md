@@ -1,5 +1,7 @@
 # Instructions
 
+You have to fill in the parts of simple_router.p4 marked with "TODO". You can find a solution in the solution folder.
+
 To setup, run:
 ```bash
 python setup.py
